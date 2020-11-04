@@ -66,7 +66,7 @@ conda create --name continuous-control python=3.6
 activate continuous-control
 ```
 
-I used Udacity's built in workspace and training on GPU and it took a few hours to train. No visual was used.
+`I used Udacity's built in workspace and training on GPU and it took a few hours to train. No visual was used.`
 
 - Visit Udacity Course for more details on how to setup your own environment: [click here](https://github.com/udacity/deep-reinforcement-learning)
 
