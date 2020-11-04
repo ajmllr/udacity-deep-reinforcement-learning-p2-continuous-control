@@ -92,7 +92,6 @@ activate continuous-control
 
 2. Windows:
 ```
-$ conda activate drlnd-p2-control
 $ jupyter notebook
 ```
 
